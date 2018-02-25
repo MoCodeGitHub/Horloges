@@ -3,8 +3,8 @@
 
   // Vide - Video Background Settings
   $('body').vide({
-    mp4: "",
-    poster: ""
+    mp4: "mp4/bg.mp4",
+    poster: "img/bg.jpg"
   }, {
     posterType: 'jpg'
   });
